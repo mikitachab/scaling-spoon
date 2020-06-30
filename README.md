@@ -1,2 +1,3 @@
 # scaling-spoon
-test repo
+
+test repo for learning git flow
